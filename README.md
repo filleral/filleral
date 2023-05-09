@@ -1,7 +1,16 @@
 <h1 align="center">Hola 👋,  Soy Filleral MAhecha</h1>
 <h3 align="center">Desarrollador Jr Fullstack</h3>
 
-Hola, Soy Desarrollador Fullstack 
+<h3>Acerca de mi </h3>
+💻 Soy programador full stack con experiencia en tecnologías web.
+🎓 Soy ingeniero en sistemas.
+🚀 Apasionado por el desarrollo de software y la creación de soluciones innovadoras.
+📊 Familiarizado con la metodología ágil de Scrum.
+
+<h3>Contactame</h3>
+Tel: 3219114191
+linkedlin: https://www.linkedin.com/in/filleral-yefreyner-mahecha-cantor-46ba451b6/
+Correo: filleral19@gmail.com
 
 <h3 align="left">Languje y herrmaientas que uso:</h3>
 <p align="left" style="color:white"> 
