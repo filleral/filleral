@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋,  Soy Filleral MAhecha</h1>
 <h3 align="center">Desarrollador Jr Fullstack</h3>
 
+Hola, Soy Desarrollador Fullstack 
+
 <h3 align="left">Languje y herrmaientas que uso:</h3>
 <p align="left" style="color:white"> 
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
